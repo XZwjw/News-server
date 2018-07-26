@@ -16,7 +16,15 @@ mongodb+spring boot+ tomcat
 ### 3>定时更新数据库
 ### 4>客户端api接口与数据库操作api接口（数据为JSON格式）
 ## 4.成果展示
+接口举例：http://localhost:8080/money/findAll
 
+
+<img src="https://github.com/wangjiawangGitHub/News-server/blob/master/1.jpg" width="50%" height="50%" />
+
+数据库图形化展示
+
+
+<img src="https://github.com/wangjiawangGitHub/News-server/blob/master/2.jpg" width="50%" height="70%" />
 
 
 
